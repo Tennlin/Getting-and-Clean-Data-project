@@ -1,0 +1,4 @@
+1. use cbind and rbind to merge the train set and test set
+2. use the feature as the colnames of mergedata
+3. choose data I want
+4. write the new txt file
